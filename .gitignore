@@ -1,0 +1,9 @@
+bin/
+dist/
+cocos2d/
+proj.android-studio/
+proj.android/
+proj.ios_mac/
+proj.linux/
+proj.win32
+package-lock.json

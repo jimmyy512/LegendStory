@@ -1,0 +1,131 @@
+{
+	"Normal": {
+		"BagFull": "警告!您的背包已滿!",
+		"CheckBagSpace": "在您開始對話前,請先保持背包有2格空位!"
+	},
+	"CreateCharacterScene": {
+		"HairLabel": "髮型",
+		"HatLabel": "臉型",
+		"ClothLabel": "衣服",
+		"FistLabel": "手套",
+		"PantsLabel": "褲子",
+		"ShoesLabel": "鞋子",
+		"TextFieldText": "輸入俠客名",
+		"StartGame": "闖蕩江湖",
+		"SamuraiInfo": "江湖上刀法\n都是欄杆充數\n唯有金烏派\n其刀法之妙\n趣味無窮",
+		"SwordInfo": "當年獨孤求敗\n已獨孤九劍式\n破盡天下武學\n不是真的求敗\n而是對己期許",
+		"BoxerInfo": "當年洪老前輩\n以降龍十八掌\n威震江湖\n掌法之妙\n天下無雙"
+	},
+	"DEVMenuScene": {
+		"ScrollMode": "打怪地圖",
+		"BattleMode": "戰場模式",
+		"CreateCharacterScene": "創角選單",
+		"ScrollMode_Luoyang": "洛陽城",
+		"TestMap": "測試地圖",
+		"BackMount": "後山地圖",
+		"ChiuanJen": "全真教",
+		"Cave": "山洞",
+		"AutoAdd": "自動加血加魔",
+		"SetLevel": "調整等級"
+	},
+	"SettingMenu": {
+		"TitleAudio": "音頻",
+		"TitleLanguage": "語言",
+		"TitleSave": "存檔",
+		"MusicItemLabel": "音樂",
+		"SoundItemLabel": "音效",
+		"Submit": "確定",
+		"Return": "返回",
+		"Account": "用戶名稱 :",
+		"Password": "輸入密碼 :",
+		"CheckPassword": "確認密碼 :",
+		"Login": "登入",
+		"Logout": "登出",
+		"Regist": "註冊",
+		"AccountInforWelcome": "歡迎",
+		"AccountInforMember": "會員!",
+		"SubmitRegist": "提交",
+		"UploadSave": "上傳",
+		"UploadSaveSuccess": "上傳存檔成功!",
+		"UploadSaveFail": "上傳存檔失敗，請回報開發團隊!",
+		"DownloadSave": "繼承",
+		"DownloadSaveSuccess": "下載存檔成功!",
+		"DownloadSaveFail": "下載存檔失敗，請回報開發團隊!",
+		"AccountEmpty": "帳號不能為空!",
+		"PasswordEmpty": "密碼不能為空!",
+		"CheckPasswordEmpty": "確認密碼不能為空!",
+		"NotSame": "輸入密碼和確認密碼不同，請再次確認!",
+		"AlreadyRegist": "帳號密碼已註冊過，請再次重新輸入!",
+		"WrongUser": "帳號或密碼錯誤，請再次確認!",
+		"ServerDown": "服務器維護中，請稍後再次嘗試!",
+		"InternetConfigError": "網路組件初始化失敗，請回報開發團隊!",
+		"didntGetresFromServer": "未收到server回應，請回報開發團隊!"
+	},
+	"ItemScene": {
+		"Equipment": "裝備",
+		"UnEquipment": "取下",
+		"RankUp": "強化",
+		"Title": "背包",
+		"HPInfo": "氣血:",
+		"AttackInfo": "武力:",
+		"MPInfo": "內力:",
+		"DefendInfo": "防禦:",
+		"SpeedInfo": "身法:",
+		"PopularInfo": "聲望:",
+		"UnEquipmentFailTip": "背包已滿，無法取下裝備!",
+		"ReSortItem": "重整"
+	},
+	"StoreScene": {
+		"Title": "交易商店",
+		"Store": "商人",
+		"YourBag": "背包",
+		"GotMoney": "交易金額",
+		"CurrentMoney": "持有金額",
+		"Buy": "買下",
+		"Sell": "賣出",
+		"Price": "單價:",
+		"ItemBagFullBoughtFail": "背包已滿,無法購買!",
+		"StoreFullBoughtFail": "商店已滿,無法販賣!",
+		"BuyItemFail": "購買失敗,您沒錢支付!",
+		"ChooseTitleLabel": "請選擇數量",
+		"ChooseAmount": "選擇數量:",
+		"MaxAmount": "最大數量:",
+		"ChooseSubmit": "確定",
+		"ChooseCancel": "返回",
+		"SortItem": "重整"
+	},
+	"DialogScene": {
+		"Title": "請選擇操作",
+		"Option1": "對話/任務",
+		"Option2": "交易",
+		"Option3": "離開"
+	},
+	"HUDLayer": {
+		"HP": "氣血",
+		"MP": "內力",
+		"EXP": "經驗"
+	},
+	"MissionScene": {
+		"Return": "返回",
+		"Tip": ""
+	},
+	"MapNameTip": {
+		"ChiuanJen": "全真教",
+		"ChiuanJenMount": "全真教後山",
+		"LuoYangCity": "洛陽城",
+		"ForestField": "全真山下",
+		"Cave": "全真禁地",
+		"TestMap": "測試地圖"
+	},
+	"GameStartMovie": {
+		"1": "歡迎來到口袋江湖的世界!",
+		"2": "影片播放時,點擊影片五下即可跳過影片!",
+		"3": "遊戲即將開始!"
+	},
+	"MainScene": {
+		"NoSaveTip": "沒有偵測到遊玩紀錄!"
+	},
+	"FailScene": {
+		"Return": "回村莊"
+	}
+}

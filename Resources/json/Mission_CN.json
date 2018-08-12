@@ -1,0 +1,146 @@
+{
+	"FirstInChiuanJen": {
+		"State": "GoChiuanJen",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "初入全真派",
+		"Content": "经过了长途跋涉,发现这里离全真派不远了,地图上显示往《西边前进》即可到达全真派了。",
+		"Tip": "进入全真派",
+		"DialogCode": "FirstInChiuanJen"
+	},
+	"FirstMeetZhangZhen": {
+		"State": "TalkZhangZhen",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "初见掌门",
+		"Content": "终于到达全真派了,门派内的人都忙着练功,似乎都不太想理我这位外人,不知道全真派掌门愿不愿意收留我?",
+		"Tip": "寻找上真道长",
+		"DialogCode": "FirstMeetZhangZhen"
+	},
+	"FirstMeetZhangQing": {
+		"State": "TalkZhangQing",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "初见大师兄",
+		"Content": "上真道长愿意收留我当弟子,真是太好了,师父命我去找大师兄,带我认识一下其他师兄弟.",
+		"Tip": "寻找徐长卿",
+		"DialogCode": "FirstMeetZhangQing"
+	},
+	"FirstMeetZhangHen": {
+		"State": "TalkZhangHen",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "初见二师兄",
+		"Content": "大师兄和我简单介绍了一下全真派,虽然大师兄说话有些隐瞒,不过现在要带我去找二师兄,不知道二师兄是个什么样的人?真是期待!",
+		"Tip": "寻找洪长恨",
+		"DialogCode": "FirstMeetZhangHen"
+	},
+	"FirstMeetZhangYin": {
+		"State": "TalkZhangYin",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "初见苏长胤",
+		"Content": "刚刚见了二师兄,此人似乎很讨厌这个全真派,难道此派的人都那么不友善吗?",
+		"Tip": "寻找苏长胤",
+		"DialogCode": "FirstMeetZhangYin"
+	},
+	"FirstMeetZhangFong": {
+		"State": "TalkZhangFong",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "初见王长风",
+		"Content": "长胤师兄名字真难念,不过看来是位挺有善的人呢!下一位师兄弟不知是否也那么友善呢?",
+		"Tip": "寻找王长风",
+		"DialogCode": "FirstMeetZhangFong"
+	},
+	"FirstMeetZhangWo": {
+		"State": "TalkZhangWo",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "初见陈长悟",
+		"Content": "陈师兄真是个豪爽之人,不知他武功底子如何?真想见识一下全真派最强之人!师兄说全真派内还有一个必须要见到的人,难道说他是一位武林高手?",
+		"Tip": "寻找陈长悟",
+		"DialogCode": "FirstMeetZhangWo"
+	},
+	"MasterFirstOrder": {
+		"State": "TalkZhangZhen",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "师父之命",
+		"Content": "认识了全真派上下师兄弟,对这个陌生的环境有了一点的亲切感,大师兄说师父有事情要找我,先回去禀报师父吧!",
+		"Tip": "寻找上真道长",
+		"DialogCode": "MasterFirstOrder"
+	},
+	"ZhangQingTip": {
+		"State": "TalkZhangQing",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "大师兄的忠告",
+		"Content": "大师兄给我飞鸽传书了,说在我出发前一定要去见他一面!似乎有什么事情要告诉我?",
+		"Tip": "寻找徐长卿",
+		"DialogCode": "ZhangQingTip"
+	},
+	"FirstAttack": {
+		"State": "None",
+		"AmountAddState": "KillSmallThief",
+		"Amount": "10",
+		"Title": "第一次打怪",
+		"Content": "师父命我前往《东边山下》击杀十位山贼,这是我第一次证明自己的好机会,也是一次学习的机会!",
+		"Tip": "击杀山贼",
+		"DialogCode": "FirstAttack"
+	},
+	"REFirstAttack": {
+		"State": "TalkZhangZhen",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "回报掌门",
+		"Content": "已经击杀了十位山贼,是时候会报给师父了,不知道师父会不会另我刮目相看呢?",
+		"Tip": "寻找上真道长",
+		"DialogCode": "REFirstAttack"
+	},
+	"ZhangZhenZombieStart": {
+		"State": "TalkZhangZhen",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "掌门之忧",
+		"Content": "上真道长飞鸽传书给我了,说有新的任务要交给我!",
+		"Tip": "寻找上真道长",
+		"DialogCode": "ZhangZhenZombieStart"
+	},
+	"GoToCheckCave": {
+		"State": "GoCave",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "全真禁地",
+		"Content": "全真禁地除了掌门，任何全真派弟子都不得进入,然后师父却命我和长卿前往山洞查看。",
+		"Tip": "前往山洞",
+		"DialogCode": "GoToCheckCave"
+	},
+	"KillZombie": {
+		"State": "None",
+		"AmountAddState": "KillZombie",
+		"Amount": "10",
+		"Title": "僵尸的尸吼",
+		"Content": "没想到山洞中竟然有僵尸出没,这些难道是二十年前那场瘟疫,被关起来的平民?",
+		"Tip": "击杀僵尸",
+		"DialogCode": "KillZombie"
+	},
+	"LeaveCave": {
+		"State": "TalkZhangZhen",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "二师兄的阴谋",
+		"Content": "原来这些僵尸都是二师兄搞得,原本的他是想复活师妹,他却发现他做不到,因此决定向师父认罪。",
+		"Tip": "前往全真派",
+		"DialogCode": "LeaveCave"
+	},
+	"NotTheEnd": {
+		"State": "Impossible",
+		"AmountAddState": "None",
+		"Amount": "-1",
+		"Title": "启程洛阳",
+		"Content": "恭喜你通关第一章节,主角在全真派锻炼了不少,之后前往洛阳后又会遇到什么江湖之事呢?敬请期待!",
+		"Tip": "Comming Soon",
+		"DialogCode": "NotTheEnd"
+	}
+}

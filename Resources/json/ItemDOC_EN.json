@@ -1,0 +1,122 @@
+{
+	"Hair_Tail":
+	{
+		"Title":"Cauda equina hair style",
+		"Infor":"Familiar hair style in the knight errant, which is very handsome。"
+	},
+	"Hair_Explore":
+	{
+		"Title":"Explode the hair style",
+		"Infor":"This is more strange hair style in the region."
+	},
+	"Hair_Band":
+	{
+		"Title":"The hair ties",
+		"Infor":"It is said that Guo Da Xia once wore this kind of headdress to secure the Xiang male battlement."
+	},
+	"Hair_Hat":
+	{
+		"Title":"Rain hat",
+		"Infor":"The thug usually wears for the sake of he or she of feint of headdress."
+	},
+	"Cloth_Farmer":
+	{
+		"Title":"Farmer's blouse",
+		"Infor":"The clothes that farm a farmer to usually be dressed in."
+	},
+	"Cloth_ChiuanJen":
+	{
+		"Title":"All true blouse",
+		"Infor":"All really teach is a front door Central plains appointment."
+	},
+	"Cloth_BlueKnight":
+	{
+		"Title":"The blue knight's blouse",
+		"Infor":"The clothes that semel to come in from other trade."
+	},
+	"Cloth_Blody":
+	{
+		"Title":"Addicted haematoporphyrin blouse",
+		"Infor":"It is said that is very devious, the bearer will see the haematoporphyrin."
+	},
+	"Pant_Farmer":
+	{
+		"Title":"Farmer's pants",
+		"Infor":"The pants that farm a farmer to usually be dressed in."
+	},
+	"Pant_ChiuanJen":
+	{
+		"Title":"All true pants",
+		"Infor":"The trousers all really taught\nLight as Teng cloud drive the feeling of fog."
+	},
+	"Pant_BlueKnight":
+	{
+		"Title":"The blue knight's pants",
+		"Infor":"The pants that semel to come in from other trade."
+	},
+	"Pant_Blody":
+	{
+		"Title":"Addicted haematoporphyrin pants",
+		"Infor":"It is said that when the homicide sees the haematoporphyrin the bearer will give no quarter."
+	},
+	"Weapon_Blody":
+	{
+		"Title":"Addicted haematoporphyrin knife",
+		"Infor":"A pair of knife of official seal."
+	},
+	"Weapon_Fist":
+	{
+		"Title":"With bare hands",
+		"Infor":"Simply knit with the knitting wool of glove."
+	},
+	"Weapon_Fist_Blue":
+	{
+		"Title":"The blue treasure boxing set",
+		"Infor":"Simply knit with the knitting wool of glove."
+	},
+	"Weapon_Sword":
+	{
+		"Title":"The gold black knife",
+		"Infor":"The quare of the gold black knife resounds through\nLie in a gold word。"
+	},
+	"Weapon_NoobSword":
+	{
+		"Title":"Tiro sword",
+		"Infor":"Look is like a pair of tiro sword, simple, simple, well-executed."
+	},
+	"Weapon_Shadow":
+	{
+		"Title":"Blurred shadow knife",
+		"Infor":"The rumor depends on the sorption other people's old grudge and rare of knife."
+	},
+	"SmallRedPotion":
+	{
+		"Title":"Small and red water bottle",
+		"Infor":"Can repair to take a little amount haematoporphyrin quantity."
+	},
+	"MiddleRedPotion":
+	{
+		"Title":"Win a red water bottle",
+		"Infor":"Can repair to take the middle haematoporphyrin quantity."
+	},
+	"LargeRedPotion":
+	{
+		"Title":"Deep red water bottle",
+		"Infor":"Can repair to take a great deal of haematoporphyrin quantity."
+	},
+	"SmallBluePotion":
+	{
+		"Title":"Small blue water bottle",
+		"Infor":"Can repair to take a little amount internal force."
+	},
+	"MiddleBluePotion":
+	{
+		"Title":"Win a blue water bottle",
+		"Infor":"Can repair to take the middle internal force."
+	},
+	"LargeBluePotion":
+	{
+		"Title":"Big blue water bottle",
+		"Infor":"Can repair to take a great deal of internal force."
+	}
+}

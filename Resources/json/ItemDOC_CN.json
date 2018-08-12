@@ -1,0 +1,98 @@
+{
+	"Hair_Tail": {
+		"Title": "马尾发型",
+		"Infor": "武侠中常见的发型，颇为帅气。"
+	},
+	"Hair_Explore": {
+		"Title": "爆炸发型",
+		"Infor": "这在当地是较为奇异的发型."
+	},
+	"Hair_Band": {
+		"Title": "发束",
+		"Infor": "听说郭大侠曾经穿戴这种头饰来保卫襄阳城."
+	},
+	"Hair_Hat": {
+		"Title": "斗笠",
+		"Infor": "刺客为了伪装自己经常穿戴的头饰."
+	},
+	"Cloth_Farmer": {
+		"Title": "农夫上衣",
+		"Infor": "种田农夫经常穿着的衣服."
+	},
+	"Cloth_ChiuanJen": {
+		"Title": "全真上衣",
+		"Infor": "全真教乃是中原一大门派，其衣之价可想而知."
+	},
+	"Cloth_BlueKnight": {
+		"Title": "蓝骑士上衣",
+		"Infor": "似乎是从他国交易进来的衣服."
+	},
+	"Cloth_Blody": {
+		"Title": "嗜血上衣",
+		"Infor": "据说杀人不见血时,持有人将见血."
+	},
+	"Pant_Farmer": {
+		"Title": "农夫裤子",
+		"Infor": "种田农夫经常穿着的裤子."
+	},
+	"Pant_ChiuanJen": {
+		"Title": "全真裤子",
+		"Infor": "全真教之裤\n轻如腾云驾雾之感."
+	},
+	"Pant_BlueKnight": {
+		"Title": "蓝骑士裤子",
+		"Infor": "似乎是从他国交易进来的裤子."
+	},
+	"Pant_Blody": {
+		"Title": "嗜血裤子",
+		"Infor": "据说杀人见血时,持有人将杀无赦."
+	},
+	"Weapon_Blody": {
+		"Title": "嗜血刀",
+		"Infor": "一把被封印的刀."
+	},
+	"Weapon_Fist": {
+		"Title": "空手",
+		"Infor": "简单用毛线织成的手套."
+	},
+	"Weapon_Fist_Blue": {
+		"Title": "蓝宝拳套",
+		"Infor": "简单用毛线织成的手套."
+	},
+	"Weapon_Sword": {
+		"Title": "金乌刀",
+		"Infor": "金乌刀之所以响彻\n在于一个金字。"
+	},
+	"Weapon_NoobSword": {
+		"Title": "新手剑",
+		"Infor": "看起来就像是一把新手剑,朴实,简单,俐落."
+	},
+	"Weapon_Shadow": {
+		"Title": "暗影刀",
+		"Infor": "传说靠吸着别人的仇恨而生的刀."
+	},
+	"SmallRedPotion": {
+		"Title": "小红水瓶",
+		"Infor": "可以补取少量血量."
+	},
+	"MiddleRedPotion": {
+		"Title": "中红水瓶",
+		"Infor": "可以补取中等血量."
+	},
+	"LargeRedPotion": {
+		"Title": "大红水瓶",
+		"Infor": "可以补取大量血量."
+	},
+	"SmallBluePotion": {
+		"Title": "小蓝水瓶",
+		"Infor": "可以补取少量内力."
+	},
+	"MiddleBluePotion": {
+		"Title": "中蓝水瓶",
+		"Infor": "可以补取中等内力."
+	},
+	"LargeBluePotion": {
+		"Title": "大蓝水瓶",
+		"Infor": "可以补取大量内力."
+	}
+}

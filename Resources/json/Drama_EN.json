@@ -1,0 +1,355 @@
+{
+	"FacialTest":
+	[
+		"我為人人,人人為我,在下普通說話中!@NT",
+		"你這個廢物弟子,真是敗壞我全真派威名，在下生氣說話中!@AG",
+		"莫名的哀傷,問世間情為何物?...在下傷心說話中!@SD",
+		"我的心好痛,這難道就是心痛的感覺嗎?...在下吐血說話中!@BL",
+		"專題花了一年多終於做好了,在下高興說話中!@HP",
+		"救命我快痛死了.....,在下死亡表情中!@DO",
+		"華勤益不做專題,讓我有這個表情...在下翻白眼中!@DT",
+		"為什麼主角那麼強阿?在下真的超級傻眼的,在下傻眼說話中!@DB",
+		"景天的名子到底是?景天的景,還是景天的天?在下困惑說話中!@CF"
+	],
+	"FirstInChiuanJenTip":
+	[
+		"Welcome the pocket river's lake of playing!*NA",
+		"Click the upper right ?【gear 】?,\nCan establish volume and language。*NA",
+		"Click the upper right ?【backpack 】?,\nCan look into article and attribute。*NA",
+		"Click the upper right ?【roller for scrolls】 ?,\nCan look into the task object。*NA",
+		"Present can unbolt first ?roller for scrolls ?,\nCome to learn a task of your next move。*NA"
+	],
+	"FirstInChiuanJenCharacterTalk":
+	[	
+		"Is having been pressing down to walk the link very tired?\nThis play field considerate tender ?【automatically walk 】?of function!*NA",
+		"Press down not to put while pressing down to walk the link,\nImmediately after slip to walk a link exoenzyme,\nThe finger releases to then and automatically progress!*NA",
+		"Shout~Very tired~It'll be in the front to all really appoint!\nAgain add can arrive the strength!@CF*MC"
+	],
+	"AttackOptionTip":
+	[
+		"The rightest bottom angle assails the link usually be【Assail a status】\nEnter to deliver point then be【Deliver a status】\nClose to NPC then be【Speak a status】*NA",
+		"The gist different statuses next logo will change\nClick can commit the corresponding operation!*NA"
+	],
+	"FallTip":
+	[
+		"In the world in the pocket river's lake,\nAll buildings energies take a stroll on the roof!*NA",
+		"If want to jump down from the building,\nCan in the middle of holding an act【Get down lightly slippery rectilinear writing recorder】!*NA"
+	],
+	"SmallThiefTalk":
+	[
+		"Hum~Bold mountain hood, here is holoenzymes really below the hills,\nOnly the mountain hood dare also act wildly here?@AG*MC",
+		"Hum~Joke,\nOdor boy are you to come to find dead here?@HP*ST",
+		"The odor boy calls who?@HP*MC",
+		"Does the odor boy call you!@AG*ST",
+		"HaHaHa~I know that you call the odor boy!@HP*MC",
+		"......Moving the mouth couldn't win you at saying, the sibliings give I together last!@AG*ST"
+	],
+	"WhoAreYou":
+	[
+		"Who are you ?Is it all right to don't bother me to do exercises in gymnastics?@CF",
+		"The regret bothered...@SD*MC"
+	],
+	"ZhangQing":
+	[
+		"Senior, look lately you how depressed and not talking much ar -?@CF*MC",
+		"Oh, is younger brother Shi's ar -!@CF",
+		"Nothing important...Has the girl whom calls the purple Xuan\nThe coup mentions my previous incarnation with me。@CF",
+		"She says that my previous incarnation is called to attend to stay the Fang......\nThis trochanter seems to make me think of the memory port of previous incarnation......@CF",
+		"Previous incarnation of I seemed to owe the purple Xuan miss......@CF",
+		"ZhangQing ar -~is trapped the result brought by feeling,\nHave you already thought?@CF*ZZ",
+		"Teacher...Teacher...The pupil is ashamed......@CF",
+		"Meet to rather disappear, there is a feeling repaying heartless,\nGather a head again, difficult the phase guard,\nIf mutually guard, don't  look back。@CF*ZZ",
+		"Teaching of teacher...The pupil realizes。@CF",
+		"《The ZhangQing suddenly walks to one side cachinnation》*NA",
+		"The dark longing of love gets, the difficult worry copy,\nWedding day night, afraid that the passing years is dark to eliminate the juvenility,\nThe spring goes to a person difficult old。@HP",
+		"Big senior...\nBe at cry...?\nStill at smile...?@CF*MC"
+	],
+	"ZhangYin":
+	[
+		"The senior is speedy, listenned last time you mention nine yins really through, this really through actually was what position ar -?@HP*MC",
+		"Surprisingly younger brother Shi so hard wantses the matter of realizing Wu Lin, which is very good!That I came right away to say nine yins really through of cause~@HP",
+		"Song badge is believed in to the government and the of year, descend the superscription book of aim order a cleverness person【Huang Chang】The superscription writes a Taoist book【10000 hide】。@CF",
+		"In order to being to engrave a book for king of kings, Huang Chang Pa comes amiss the decollation, he spent several years careful collate, imperceptibly and then mastered in the Taoism。@CF",
+		"Self-taught apprehended the deepest fighting skill, through after endlessly fixing to do, become an extremely martial enzymology superior。@CF",
+		"Huang Chang Da's without equal in strength hand one war becomes famous, but when he completely apprehends the fighting skill of, already year lead 70。@CF",
+		"He is aware of the date without the polypeptide, hence chase whole life strenuous effort, write top and bottom two【Nine yins really through】。@CF",
+		"Unexpectedly artificial this nine yins of river's lake really through work hard for, you die I live...@CF*MC",
+		"If I take to nine yins really through of words, I will definitely chase its burnout, make it not go on disaster others。@CF*MC",
+		"You these words say of how with teacher Zu ?【Wang Zhong Yang 】?look exactly alike ar -...The regrettable teacher Zu passes away early, otherwise you two's ratify talks of speculate。@CF",
+		"It is late the did exercises in gymnastics and another day saided with you again nine male God work of cause!@HP",
+		"The senior slowly walks~@HP*MC"
+	],
+	"ZhangZhen":
+	[
+		"Teacher but have what worry?@CF*MC",
+		"Alas~Lately for big pupil Xu Chang Qing, with the most satisfied teacher, , always is mind not in it!@CF",
+		"Even still say to exit the holoenzymes to really teach, all really appoint the true no one to carry on like this...@CF",
+		"Even still say to exit the holoenzymes to really teach, all really appoint the true no one to carry on like thisz!@HP*MC",
+		"《The teacher was by hand clapped $of head*NA",
+		"Say what?Still not quick do exercises in gymnastics odor boy!@AG"
+	],
+	"ZhangHen":
+	[
+		"Look what to look?@CF",
+		"Why does the senior dislike so me?@SD*MC",
+		"Because you are that discard a material,\nThe whole holoenzymes really the appointments all discard a material。@AG",
+		"I the meet is one~one~one~1~\nOf upwards climb, climb to the maximum , I want to be Zhao Gao!@CF",
+		"......@NM*MC"
+	],
+	"ZhangFong":
+	[
+		"師兄我來也~@HP*MC",
+		"唉呦~師弟怎有空來看我啊~@HP",
+		"每天練功真是有夠累的,\n閒暇之餘來找師兄喝酒聊天!@HP*MC",
+		"嘿嘿嘿~我這邊偷藏了一罐洛陽紹興酒,正愁找不到人與我同飲呢!@HP",
+		"來~師弟你也來一碗~\n一起干了~~@HP",
+		"《兩人開始痛飲了起來~》*NA",
+		"喂!幹甚麼東西啊~\n大白天的偷喝酒,\n罰你們晚上不准吃飯!@AG*ZZ",
+		"師父不要~徒兒知錯了!@SD",
+		"徒兒也知錯了...@SD*MC"
+	],
+	"ZhangWo":
+	[
+		"Teach and not clear its law, enzymology and too not that its teachings。@HP",
+		"Uncle Shi originally you will speak?@HP*MC",
+		"Very good~very good~very good ar -~~@HP",
+		"...Wish uncle Shi to fulfill, safety pleased joy。@CF*MC",
+		"Very good~very good~good one very ar -~~@HP"
+	],
+	"MainCharacterFacialTest":
+	[
+		"我為人人,人人為我,在下普通說話中!@NT*MC",
+		"你這個廢物弟子,真是敗壞我全真派威名，在下生氣說話中!@AG*MC",
+		"莫名的哀傷,問世間情為何物?...在下傷心說話中!@SD*MC",
+		"我的心好痛,這難道就是心痛的感覺嗎?...在下吐血說話中!@BL*MC",
+		"專題花了一年多終於做好了,在下高興說話中!@HP*MC",
+		"救命我快痛死了.....,在下死亡表情中!@DO*MC",
+		"華勤益不做專題,讓我有這個表情...在下翻白眼中!@DT*MC",
+		"為什麼主角那麼強阿?在下真的超級傻眼的,在下傻眼說話中!@DB*MC",
+		"景天的名子到底是?景天的景,還是景天的天?在下困惑說話中!@CF*MC"
+	],
+	"FirstMeetZhangZhen":
+	[
+		"The infra is to all really appoint a metacarpo door,\nWhat thing does the sterigma sibliing have?@HP*ZZ",
+		"《$Suddenly knelt down》*NA",
+		"Pupil$Pay a courtesy call on a metacarpo door。@NT*MC",
+		"This......Start to ask fast and fast,\nThis is why ar -?@CF*ZZ",
+		"Distinctly go down south because of the person of gold,\nMake pupil make a firm decision to come to really appoint the study all!@AG*MC",
+		"Make the pupil able to secure the home so much,\nIt's similar to be like that Guo Da Xia who garrisons in the Xiang male battlement!@AG*MC",
+		"《The metacarpo door suddenly uses a metacarpo law dynasty\n$Beat》*NA",
+		"《$Dissipates of the golden ray of light on the body\nMade the metacarpo door is shaken to return some》*NA",
+		"This be......【Cut dragon 18 metacarpos】?\nBut have already been subjected to Gao Ren to instruct?@DB*ZZ",
+		"The pupil didn't just once come across Gao Ren in the forest,\nTaught the pupil three celestial efforts。@CF*MC",
+		"En...You should be to meet the old Hong to help a lord, surprisingly in addition to Guo Da Xia, even you are helped by old Hong instructing of lord, which is good!@HP*ZZ",
+		"Unexpectedly you receive the old Hong to help the main true oral tradition,\nThat I also close you as my pupil!@HP*ZZ",
+		"Thank the teacher!@HP*MC",
+		"Immediately after you look for the holoenzymes to really appoint the big pupil【Xu ZhangQing】,He will bring you to recognize this atmosphere!@HP*ZZ",
+		"Sincerely Zun teacher life!@HP*MC"
+	],
+	"FirstMeetZhangQing":
+	[
+		"Master's elder brother is speedy!@HP*MC",
+		"You be?@CF*ZQ",
+		"I am called$,Is the new pupil that just joined the holoenzymes to really appoint, teacher life I to found you to acquaint with the atmosphere!@HP*MC",
+		"You are the person who just came to grips with teacher?\nUnexpectatively and all really appointed to close a superior ar -!@DB*ZQ",
+		"Overpraise~overpraise~@HP*MC",
+		"To, forgot to introduce myself the infra to be called【Xu ZhangQing】,In the holoenzymes really appointed a bottom to learn for long 10 years!@HP*ZQ",
+		"All really appoint ever since that time and first the teacher【Wang Zhong Yang】After creating,\nBe on the decline by degrees...@SD*ZQ",
+		"Future can depend on your this flock of seniors younger brother!@HP*ZQ",
+		"《Master's elder brother seems to mean to say what》@NM*MC",
+		"Leave~I bring you first to recognize the other teacher sibliing!@HP*ZQ",
+		"Follow instructions~senior!@HP*MC"
+	],
+	"FirstMeetZhangHen":
+	[
+		"He Shi?@CF*ZH",
+		"ZhangHen,This is the pupil that we all really appoint the new collect\n$.@NT*ZQ",
+		"Two seniors, you the good infra be called\n$Just joined...@HP*MC",
+		"Person of strength cowardice disdains to talk more@CF*ZH",
+		"This......@AG*MC",
+		"ZhangHen you do good,$However is newly arrived, have a necessity so?@CF*ZQ",
+		"I again what's the matter???\nYou don't always look me a turn over two to stare,\nMost dislike you this kind of mean person。@CF*ZH",
+		"Teacher has already said the super -, that thing...@CF*ZQ",
+		"Shut up to is all right?You don't always take the teacher to press me, one day there will I will make you see, what be called the strongest great king。@AG*ZH",
+		"《【Hong ZhangHen】Finish saying now the dropout》*NA",
+		"Big senior...this......@CF*MC",
+		"Having no the matter don't put in the mind, his this person is so, think how to become strong per day, think how to prove oneself each time and a little bit go off accidentally to go into evil......@NT*ZQ",
+		"Alas~Bring you first to recognize the next senior younger brother!@NT*ZQ",
+		"Ok, senior。@NT*MC"
+	],
+	"FirstMeetZhangYin":
+	[
+		"Xu's younger brother Shi, this is our just- converted to a religion New appointee!@HP*ZQ",
+		"Senior how are you, I am called$!@HP*MC",
+		"Younger brother Shi likes the ar -, having the river the subject of the lake can ask me!@HP*ZY",
+		"Wanted to all really appoint to set to appoint the Zu teacher in those early years【Wang Zhong Yang】,Is a remarkable talent that only treads a martial wood, the fighting skill scholastic attainment deeply can not measure and even have already hit to appear lost in thought to go into the turned situation...@HP*ZY",
+		"Younger brother Shi really wants to finish saying a story the ar -?\nSay again down the sky would be dark...@DB*ZQ",
+		"Ha~ha~excused me to forget on speaking me, \n that younger brother Shi another day I come to speak nine yins a little really with you again through of cause!@HP*ZY",
+		"Good senior another day begs for with you again to teach。@NT*MC"
+	],
+	"FirstMeetZhangFong":
+	[
+		"Man winding poem book is wildly pleased to want,\nThe daytime plays the song to drink wine to excess,\nThe youth companies to return to home so much。@HP*ZF",
+		"Good poem~good poem!Younger brother Shi's temper seems to be good today!@HP*ZQ",
+		"The senior is speedy!Drank to heart's contented yesterday a,\nSeemed to awake to inebriate the truth of boxing!@HP*ZF",
+		"This Be...?@CF*ZF",
+		"Infra$,Just joined the holoenzymes to really appoint, wished to really appoint with holoenzymes top and bottom totally enter return!@NT*MC",
+		"Good, unexpectatively I also had younger brother Shi, ha ha~younger brother Shi another day drink together two cups of how ar -?@HP*ZF",
+		"Senior unexpectedly like this pleasure,\nThat infra was polite to rather obey orders!@HP*MC",
+		"Senior, younger brother Shi, the infra has some a matter, the another day one more gets together, and we definitely don't inebriate nor return by that time!@HP*ZF",
+		"《Wang ZhangFong finish saying now the dropout》*NA",
+		"《Surprisingly senior king is unexpectedly a thus bold and unconstrained person, and two seniors are absolutely opposite》@NM*MC",
+		"How~Wang Shi Di's person is good, hereafter have what thing can also beg for with him to teach!@HP*ZQ",
+		"Leave, all really appointing to still have the last person can see a little, is he also regarded as an old-timer!@NT*ZQ",
+		"Realize, have never thought to all really appoint top and bottom people of talent coming forth successive!@HP*MC"
+	],
+	"FirstMeetZhangWo":
+	[
+		"Uncle Shi, the Tu son brought a new Tu to see you!@HP*ZQ",
+		"Cough~cough~cough, very good~very good~very good ar -~@HP*ZW",
+		"Pupil$See super - uncle Shi!@NT*MC",
+		"Very good~very good~very good ar -~~@HP*ZW",
+		"......@NM*MC",
+		"Shi Shu says he is tired, let's是不是對全真派師兄弟有些認識了呢 quit first!@NT*ZQ",
+		"Uncle Shi, the pupils in advance excuse to leave!@CF*ZQ",
+		"Very good~very good~very good ar -~~@HP*ZW",
+		"《$Walk with Xu ZhangQing to one side》*NA",
+		"Uncle Shi this BE...Dislike me?@CF*MC",
+		"Ha ha~you think the polypeptide,\nUncle Shi has been not too loving to speak just!@HP*ZQ",
+		"However look to the impression of uncle Shi to you good!@HP*ZQ",
+		"Thus you is be not to the holoenzymes really appoint the senior did the younger brother have some discernment?@NT*ZQ",
+		"Yes!@NT*MC",
+		"Nice,The teacher after saying wait for you to acquaint with the atmosphere returns to report the report with him, he occupies and appoints to you!@NT*ZQ",
+		"Realize, thank master's elder brother's help!@HP*MC",
+		"Will not, will not, as it should be!@HP*ZQ"
+	],
+	"MasterFirstOrder":
+	[
+		"$Ar -,Really appoint subsistence in the holoenzymes of still be used to?@HP*ZZ",
+		"Thank the teacher concern, the Tu son has already become accustomed to and all really appoint the sense of having the house of seeming to this!@HP*MC",
+		"Very good, those ceremonious words not much said, there is a matter wanting to give an account that you do for teacher, this is also a good hazard to make you fix to do!@CF*ZZ",
+		"The vessel pigeon that just received the green battlement to appoint for the teacher spread a book and said that our all really appointing be below the hills about to have the mountain the hood to cause trouble, is really an air bruck I am also!@AG*ZZ",
+		"Only the mountain hood dare also all really appoint at me door before cause trouble?@AG*ZZ",
+		"Put out the mountain hood's task to the Jiao and give you for the teacher!@CF*ZZ",
+		"Sincerely Zun teacher life, the Tu son is necessarily to go through fire and water, regardless the sacrifice!@AG*MC",
+		"Kidness...Very good, the mountain hood hears is at【The east all really appointed】,Find out the mountain the hood shoot on sight!@CF*ZZ",
+		"Follow instructions, the Tu son in advance excuses to leave!@AG*MC"
+	],
+	"REFirstAttack":
+	[
+		"Teacher, the Tu son has already terminated a teacher life!@HP*MC",
+		"Very good, not the Kui is to once be subjected to the true oral tradition of Hong seven males,\nI substitute to all really appoint up and down thank you!@HP*ZZ",
+		"Tu son ar -, send you the similar treasure res good no good the ar - for the teacher?@HP*ZZ",
+		"What treasure res??@CF*MC",
+		"The blurred shadow knife is that I all really appoint a treasure of town mountain,\nGive you it for the teacher!@HP*ZZ",
+		"Teacher...This...Not that all right?\nMaster's elder brothers all have no this courteous reception...@CF*MC",
+		"You say to ZhangQing ar -?Alas~\nZhangQing have canned not see through the human life material life the whole time,\nProbably you are to all really appoint ultimately the hope?@CF*ZZ",
+		"Hope ultimately...?@CF*MC",
+		"《The metacarpo door coughed some》*NA",
+		"For teacher this passes you to the blurred shadow knife~@HP*ZZ",
+		"Thank...Thank the teacher,\nThe Tu son settles be for holoenzymes really appoint with all one's heart。@CF*MC",
+		"《Acquire【Blurred shadow knife】》*NA"
+	],
+	"ZhangZhenZombieStart":
+	[
+		"The teacher has what order?@CF*MC",
+		"Kidness...You can know that the holoenzymes after really appointing the mountain has a forbidden ground?\n@CF*ZZ",
+		"Forbidden ground?@CF*MC",
+		"Post - mountain forbidden ground in addition to metacarpo door outside of person all the incapability enter.@CF*ZZ",
+		"《【Xu ZhangQing】In a hurry run》*NA",
+		"The Tu son  ZhangQing pays a courtesy calls on the teacher。@CF*ZQ",
+		"En...Come at the right moment, I start to about to speak this matter。@CF*ZZ",
+		"The cholera rose everywhere 20 years ago, teacher Zu【Wang Zhong Yang】Then bring a person to go to below the hills look into, detect infected of the person will have hit just to。@CF*ZZ",
+		"Thereupon use holoenzymes really appoint top and bottom personnel, chase infected of person the turn off enter【Post - mountain undermine】In。@CF*ZZ",
+		"Originally think to can do once and for all like this, have never thought recently the Luo male to continuously have a noncombatant to disappear in the battlement, the mountain continuously spreads after there being news pointing out terrible of roar the interjection...@CF*ZZ",
+		"Because for the teacher advance in years have been old, and you two are again teachers person of reliance most, therefore decide to appoint you to go to ?post - cave opening ?find out the news。@CF*ZZ",
+		"《Side spread to fall off to fall a porcelain voice》*NA",
+		"Dead old man why don't appoint me?Appoint a hair head boys and a right and wrong cannot distinguished big seniors?@CF*ZH",
+		"ZhangHen the lime light!\nYou is speak with teacher!@CF*ZQ",
+		"Hum~Joke~say the leuco - the teacher is to discredit me\nAt the cutset if not that...\n@AG*ZH",
+		"《The teacher suddenly roars loud》*NA",
+		"ZhangHen You say enough none?You return for me down!\nYou at go on have never made to rest to blame me to kick out you the holoenzymes to really appoint!@AG*ZZ",
+		"《The across - the - board is utter silence》*NA",
+		"HaHaHa~Very good...Very good...\nThe one day there will doesn't want to blame me to be heartless!\n@AG*ZH",
+		"《ZhangHen finish saying now the dropout》*NA",
+		"Teacher stop anger, please...@CF*ZQ",
+		"Hum~Is really an old air bruck man, not said your reserve good hurriedly set out。@CF*ZZ",
+		"The Tus son in advance excuses to leave!@CF*ZQ"
+	],
+	"afterZhangZhenZombieStart":
+	[
+		"Senior, why just two seniors wanted to get mad ar -?@CF*MC",
+		"Still remember the teacher lately- mentioned thing?\n20 years ago that pestilence...@CF*ZQ",
+		"Among them ZhangHen younger sister Shi liking,\n【Work properly the Xian】Is one among the infected persons...@CF*ZQ",
+		"Teacher Zu【Wang Zhong Yang】For anticipating diffussion of epidemic situation,Regardless of ZhangHen of solicit simply chase【Work properly the Xian】After closing the index numbers of quantum, imports or exports mountain cave...@CF*ZQ",
+		"I have never seen lengthways hate a facial expression of smile any further after from that...@CF*ZQ",
+		"Two seniors have mercy on so much...@CF*MC",
+		"See~【Upper left】Is a seat of cave,\nLet's see first!@CF*ZQ"
+	],
+	"ZombieScream":
+	[
+		"《The distance spreads to roar the interjection》*NA",
+		"Senior...You have the tin...Hear?@DB*MC",
+		"Younger brother Shi...I seemed as well as heard...@DB*ZQ",
+		"Senior~do I look the front having an individual!\nShould not be an other senior younger brother?@CF*MC",
+		"《$Walk to come forward to look into》*NA",
+		"Sibliing~seeing of tin do I speak?@HP*MC",
+		"......@NM*ZB",
+		"Sibliing~speak with you!@CF*MC",
+		"Roar~~~~@NT*ZB",
+		"Ar~The senior is a Jiang corpse ar -!@DB*MC",
+		"Younger brother Shi doesn't fear together up!@CF*ZQ"
+	],
+	"FindSomeThing":
+	[
+		"《$Trample the thing on the ground》*NA",
+		"This is what...?\na...Book?@CF*MC",
+		"《$Turned over to write the number folio》*NA",
+		"The way of sky, Sun enough to spare and revamp scarcity, is so falsely win actually, fall come short win the enough to spare.Its idea Bo, it manages the Ao, its interest is deep.The take after of world divides into...@CF*MC",
+		"This BE...Nine yins really through?@CF*ZQ",
+		"《$Turned over ultimately the folio》*NA",
+		"《Semel the someone handwritten note》*NA",
+		"Ha~my planning finally wanted to win~\nIf fall younger sister Shi's reactivation that can make me\nSacrifice a few noncombatants and have what to visit?@CF*MC",
+		"This hand - writing semels...ZhangHen write down?@CF*ZQ",
+		"《The distance spread a step voice》*NA",
+		"...You commit what here?@CF*ZH",
+		"ZhangHen your scheme was seen through by us to still not and immediately admit mistake, recognized now that the bug repays come of and。@CF*ZQ",
+		"Take on the your hand BE...\nMy nine yins really through?@CF*ZH",
+		"The senior overrides,\nYounger sister Shi has already not returns to come。@CF*MC",
+		"...I understood, I this goes to compensate the sin with teacher。@SD*ZH"
+	],
+	"LeaveCave":
+	[
+		"Teacher, pupil with$Find out the news back!@CF*ZQ",
+		"Very very and very good~make it very well!\n欸?How to all wear a woebegone expression of?@CF*ZZ",
+		"Teacher, the pupil ZhangHen the criminality!@CF*ZH",
+		"ZhangHen ar?\nYour He Zui has ar -?@CF*ZZ",
+		"Pupil Luo male common people within battlement, after sending to mountain forbidden ground amid, hoped with this in reply living younger sister Shi【Work properly the Xian】。@CF*ZH",
+		"En...In fact know early for the teacher。@CF*ZZ",
+		"The teacher knows early?@CF*ZH",
+		"In fact you grasp of those noncombatants aren't real noncombatants, but magic of teacher, this is also regarded as to your test。@CF*ZZ",
+		"Teacher...You must want to punich me,\nOtherwise the pupil very much obliged ar -~@SD*ZH",
+		"That I punich you to the Luo male!@AG*ZZ",
+		"Help those requirements help of person!@HP*ZZ",
+		"teacher...teacher......@SD*ZH",
+		"$,\nXu ZhangQing,\nHong ZhangHen。@CF*ZZ",
+		"Teacher life your de dato begins journey the Luo male battlement and sees those people to need aid, can also let you good experience and training experience and training!@CF*ZZ",
+		"Thank...Thank the teacher don't punich of kidness...@SD*ZH",
+		"ZhangQingReceive orders!@CF*ZQ",
+		"$Receive orders!@HP*MC",
+		"That blesses your everything here first for the teacher smooth。@HP*ZZ",
+		"《All really appoint all senior younger brothers to ring out an applause》*NA"
+	],
+	"ZhangQingTip":
+	[
+		"Younger brother Shises come to pull~@HP*ZQ",
+		"Senior but have what thing?@CF*MC",
+		"I wants to tell you some sterigma skills before your outgo!@HP*ZQ",
+		"You can commit with each senior younger brother【Trade】,Buy medicine aqua tonic before setting out, drink dosage aqua while getting hurt can reply life and internal force!@HP*ZQ",
+		"In addition be you knock down the mountain hood, will acquire some articles, also energy via【Vend】Article to earning money!@HP*ZQ",
+		"Unbolt to set to choose ultimately unipole cut over an associationist to reg. a page, can also enjoy us after reg.ing an associationist【The high in the clouds saves】oh!@HP*ZQ",
+		"Senior, you are saying what?\nI how all not understandable...Say that this is the fighting skill core a law?@CF*MC",
+		"If fall you to wants the sponsor this play field, please contact jimmyy5121@gmail.com!@HP*ZQ",
+		"......Master's elder brother is crazy。@CF*MC"
+	]
+}

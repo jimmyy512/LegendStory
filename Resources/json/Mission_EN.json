@@ -1,0 +1,162 @@
+{
+	"FirstInChiuanJen":
+	{
+		"State":"GoChiuanJen",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"Aetio into all really appoint",
+		"Content":"Passed by to make a long and difficult journey, detected that here leave all and really appointed not and far, map up display toward «west precession » can immediately arrive holoenzymes really appoint。",
+		"Tip":"Enter the holoenzymes to really appoint",
+		"DialogCode":"FirstInChiuanJen"
+	},
+	"FirstMeetZhangZhen":
+	{
+		"State":"TalkZhangZhen",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"First Meet ZhangZhen",
+		"Content":"Finally arrived the holoenzymes to really appoint, the persons in the group were all busy to do exercises in gymnastics, seemed to be all to not too want to manage me this outsider, don't know the holoenzymes to really appoint a metacarpo door.",
+		"Tip":"Look for captain",
+		"DialogCode":"FirstMeetZhangZhen"
+	},
+	"FirstMeetZhangQing":
+	{
+		"State":"TalkZhangQing",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"Big senior",
+		"Content":"Ascend the true way captain volens take in me to be the pupil, be really too like, teacher life I find master's elder brother and bring my discernment for a while other teacher sibliing.",
+		"Tip":"Look for ZhangQing",
+		"DialogCode":"FirstMeetZhangQing"
+	},
+	"FirstMeetZhangHen":
+	{
+		"State":"TalkZhangHen",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"First Meet ZhangHen",
+		"Content":"Master's elder brother simply recommended with me to all really appoint for a while, non obstante master's elder brother spoke some concealments, however want to bring me to find two seniors now, don't know two seniors to are a what kind of person?",
+		"Tip":"Look for Hong ZhangHen",
+		"DialogCode":"FirstMeetZhangHen"
+	},
+	"FirstMeetZhangYin":
+	{
+		"State":"TalkZhangYin",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"First Meet ZhangYin",
+		"Content":"Just saw two seniors, this person seemed and really dislike this all to really appoint, are the persons of this appointment all not so friendly?",
+		"Tip":"Look for ZhangYin",
+		"DialogCode":"FirstMeetZhangYin"
+	},
+	"FirstMeetZhangFong":
+	{
+		"State":"TalkZhangFong",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"First Meet Zhang Fong",
+		"Content":"ZhangYin is the senior name really difficult to read aloud, however looks come is to pretty have a kind person!The next senior younger brother doesn't know also so friendly?",
+		"Tip":"Look for ZhangFong",
+		"DialogCode":"FirstMeetZhangFong"
+	},
+	"FirstMeetZhangWo":
+	{
+		"State":"TalkZhangWo",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"First Meet ZhangWo",
+		"Content":"Senior Chen is really a straightforward person, don't know how is his fighting skill background?Really want to experience to all really appoint the strongest person for a while!",
+		"Tip":"Look for ZhangWo",
+		"DialogCode":"FirstMeetZhangWo"
+	},
+	"MasterFirstOrder":
+	{
+		"State":"TalkZhangZhen",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"Life of teacher",
+		"Content":"Recognized to all really appoint the top and bottom senior younger brother, had the warm feeling of 1 points to this unfamiliar atmosphere, master's elder brother said the teacher occupies and finds me and return to first to report to report the teacher!",
+		"Tip":"Look for a true way captain",
+		"DialogCode":"MasterFirstOrder"
+	},
+	"ZhangQingTip":
+	{
+		"State":"TalkZhangQing",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"Master's advice",
+		"Content":"Master's elder brother gave me the vessel pigeon to spread a book and said to must see his one side before my outgo!Seem to have what thing to want to tell me?",
+		"Tip":"Look for ZhangQing",
+		"DialogCode":"ZhangQingTip"
+	},
+	"FirstAttack":
+	{
+		"State":"None",
+		"AmountAddState":"KillSmallThief",
+		"Amount":"10",
+		"Title":"Beat for the first time strange",
+		"Content":"Teacher life I go to «the east is below the hills » to beating to kill a decimal mountain hood, this is me for the first time verification is own good hazard, also the hazard of study!",
+		"Tip":"Kill thief",
+		"DialogCode":"FirstAttack"
+	},
+	"REFirstAttack":
+	{
+		"State":"TalkZhangZhen",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"Requital door",
+		"Content":"Having already beatinged to kill a decimal mountain hood is a time transaction to give teacher, don't know the teacher whether will another my in different light?",
+		"Tip":"Look for a captain",
+		"DialogCode":"REFirstAttack"
+	},
+	"ZhangZhenZombieStart":
+	{
+		"State":"TalkZhangZhen",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"Sorrow door",
+		"Content":"Up the true way long vessel pigeon spread a book to me and said to have the new task must give me!",
+		"Tip":"Look for a true way captain",
+		"DialogCode":"ZhangZhenZombieStart"
+	},
+	"GoToCheckCave":
+	{
+		"State":"GoCave",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"True forbidden ground",
+		"Content":"All true forbidden ground in addition to metacarpo door, any holoenzymes' really appointing pupils can not enter, then teacher but life I go to a cave to look into with long Qing。",
+		"Tip":"Go to a cave",
+		"DialogCode":"GoToCheckCave"
+	},
+	"KillZombie":
+	{
+		"State":"None",
+		"AmountAddState":"KillZombie",
+		"Amount":"10",
+		"Title":"The corpse of roars",
+		"Content":"Unexpectedly there is unexpectedly a Jiang corpse appearing and disappearing in the cave, these is that pestilence 20 years ago, be closed of noncombatant?",
+		"Tip":"Kill Zombie",
+		"DialogCode":"KillZombie"
+	},
+	"LeaveCave":
+	{
+		"State":"TalkZhangZhen",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"Conspiracy seniors",
+		"Content":"Originally all of these Jiangs corpses are two seniors to make, source version of he wants to bring to life younger sister Shi, but he detects that he cans not do it, therefore decide toward the teacher confess",
+		"Tip":"Leave Cave",
+		"DialogCode":"LeaveCave"
+	},
+	"NotTheEnd":
+	{
+		"State":"Impossible",
+		"AmountAddState":"None",
+		"Amount":"-1",
+		"Title":"Start on journey the Luo male",
+		"Content":"Congratulate your clearance number first chapter, leading role at holoenzymes really appointed to work out a lot, after go to the Luo male to come across again behind what river's lake of matter?Please look forward to!",
+		"Tip":"Comming Soon",
+		"DialogCode":"NotTheEnd"
+	}
+}

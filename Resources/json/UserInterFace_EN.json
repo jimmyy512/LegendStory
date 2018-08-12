@@ -1,0 +1,131 @@
+{
+	"Normal": {
+		"BagFull": "Warning! Your backpack is full!",
+		"CheckBagSpace": "Please keep your backpack 2 spaces before you start talking!"
+	},
+	"CreateCharacterScene": {
+		"HairLabel": "hairstyle",
+		"HatLabel": "face",
+		"ClothLabel": "Cloth",
+		"FistLabel": "Gloves",
+		"PantsLabel": "Pant",
+		"ShoesLabel": "Shoes",
+		"TextFieldText": "Input Name",
+		"StartGame": "Start",
+		"SamuraiInfo": "Knife",
+		"SwordInfo": "Sword",
+		"BoxerInfo": "Fist"
+	},
+	"DEVMenuScene": {
+		"ScrollMode": "Forest Scene",
+		"BattleMode": "Battle Scene",
+		"CreateCharacterScene": "Create Character Scene",
+		"ScrollMode_Luoyang": "Luoyang",
+		"TestMap": "Test Map",
+		"BackMount": "Back Mount",
+		"ChiuanJen": "ChiuanJen",
+		"Cave": "Cave",
+		"AutoAdd": "Auto add",
+		"SetLevel": "Set Level"
+	},
+	"SettingMenu": {
+		"TitleAudio": "Audio",
+		"TitleLanguage": "Language",
+		"TitleSave": "Save",
+		"MusicItemLabel": "Music",
+		"SoundItemLabel": "Sound",
+		"Submit": "Submit",
+		"Return": "Return",
+		"Account": "Account :",
+		"Password": "Password :",
+		"CheckPassword": "CheckPassword :",
+		"Login": "Login",
+		"Logout": "Logout",
+		"Regist": "Regist",
+		"AccountInforWelcome": "Welcome",
+		"AccountInforMember": "Member!",
+		"SubmitRegist": "Regist",
+		"UploadSave": "Upload",
+		"UploadSaveSuccess": "Success",
+		"UploadSaveFail": "Fail",
+		"DownloadSave": "Save",
+		"DownloadSaveSuccess": "Success",
+		"DownloadSaveFail": "Fail",
+		"AccountEmpty": "Account Cant Empty",
+		"PasswordEmpty": "Password cant Empty",
+		"CheckPasswordEmpty": "Confirm Password Cant Empty!",
+		"NotSame": "confirm and input not same",
+		"AlreadyRegist": "AlreadyRegist",
+		"WrongUser": "WrongUser",
+		"ServerDown": "ServerDown",
+		"InternetConfigError": "Internet Config Error",
+		"didntGetresFromServer": "didnt Getres From Server"
+	},
+	"ItemScene": {
+		"Equipment": "Equip",
+		"UnEquipment": "UnEquip",
+		"RankUp": "RankUp",
+		"Title": "Item",
+		"HPInfo": "HP:",
+		"AttackInfo": "ATK:",
+		"MPInfo": "MP:",
+		"DefendInfo": "DEF:",
+		"SpeedInfo": "SPE:",
+		"PopularInfo": "POP:",
+		"UnEquipmentFailTip": "Item bag full",
+		"ReSortItem": "Refresh"
+	},
+	"StoreScene": {
+		"Title": "Store Scene",
+		"Store": "Store",
+		"YourBag": "Bag",
+		"GotMoney": "Money",
+		"CurrentMoney": "Our Money",
+		"Buy": "Buy",
+		"Sell": "Sell",
+		"Price": "Price:",
+		"ItemBagFullBoughtFail": "Bag Full!",
+		"StoreFullBoughtFail": "Store Full!",
+		"BuyItemFail": "Buy Fail!",
+		"ChooseTitleLabel": "Choose Title",
+		"ChooseAmount": "Choose Amount:",
+		"MaxAmount": "Max Amount:",
+		"ChooseSubmit": "Submit",
+		"ChooseCancel": "Cancel",
+		"SortItem": "Refresh"
+	},
+	"DialogScene": {
+		"Title": "Operator",
+		"Option1": "Mission",
+		"Option2": "Trade",
+		"Option3": "Exit"
+	},
+	"HUDLayer": {
+		"HP": "HP",
+		"MP": "MP",
+		"EXP": "EXP"
+	},
+	"MissionScene": {
+		"Return": "Return",
+		"Tip": "Tip"
+	},
+	"MapNameTip": {
+		"ChiuanJen": "Chiuan Jen",
+		"ChiuanJenMount": "ChiuanJen Mount",
+		"LuoYangCity": "LuoYang",
+		"ForestField": "Forest Field",
+		"Cave": "Cave",
+		"TestMap": "TestMap"
+	},
+	"GameStartMovie": {
+		"1": "Welcome!",
+		"2": "Touch scene five time to skip!",
+		"3": "Game ready start!"
+	},
+	"MainScene": {
+		"NoSaveTip": "No contact save!"
+	},
+	"FailScene": {
+		"Return": "Return"
+	}
+}
