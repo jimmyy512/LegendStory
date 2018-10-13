@@ -6,6 +6,9 @@ Google Play: https://play.google.com/store/apps/details?id=com.Majitoo.tw
 
 影片: https://www.youtube.com/watch?v=6-fzYTdnfGw
 
+五十頁報告(程式思路與製作過程):
+https://drive.google.com/file/d/13QxH3bycLdD87EkWDZibvrXnIPKaHzMH/view
+
 
 ## 使用到的工具
 
